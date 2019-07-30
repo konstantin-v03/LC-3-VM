@@ -10,9 +10,8 @@
 ```
 2. Run program.
 ```
-	main.exe 2048.obj
+	main.exe 2048.obj 
 ```
-
 --------------------
 
 ### How to run on Linux:
@@ -26,3 +25,4 @@
 	./main 2048.obj
 ```
 
+2048.obj could be any object file assembled into lc-3 isa.
